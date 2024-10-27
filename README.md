@@ -1,6 +1,6 @@
 # Algorithmic Art Poster Contest
 
-This repository contains my work for the [contest of algorithmic art](https://bdepalme.fr/2024/09/22/poster.html) of the **[Palme association](https://bdepalme.fr)** (association of Computer Science students of ISTIC, University of Rennes).
+This repository contains my work for the [contest of algorithmic art](https://www.bdepalme.fr/2024/09/22/poster.html) of the **[Palme association](https://www.bdepalme.fr)** (association of Computer Science students of ISTIC, University of Rennes).
 
 ## Installation
 
